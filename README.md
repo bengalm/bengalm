@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there is bengalm. 👋
 
 <!--
 **bengalm/bengalm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+`🔭` I’m currently working on: `yswy`
+
+`🌱` I’m currently learning: `life`
+
+`📫` How to reach me: `Wx: Mnext1`
+
+`📮` Email: `406894560@qq.com`
+
+<!-- Total -->
+<div>
+   <img height="180" src="https://github-readme-stats.vercel.app/api?username=bengalm&show_icons=true&theme=nightowl" />
+   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bengalm&layout=compact&theme=nightowl" />
+</div>
+
+<p align="center"> 
+  Github 访问次数统计<br>
+  <img src="https://profile-counter.glitch.me/bengalm/count.svg" />
+</p>
