@@ -15,13 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-`🔭` I’m currently working on: `yswy`
+`🔭` I’m currently working on: `word`
 
 `🌱` I’m currently learning: `life`
-
-`📫` How to reach me: `Wx: Mnext1`
-
-`📮` Email: `406894560@qq.com`
 
 <!-- Total -->
 <div>
